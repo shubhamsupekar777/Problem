@@ -7,12 +7,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsupekar777/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsupekar777/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsupekar777/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
