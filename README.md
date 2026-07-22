@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsupekar777/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Union-Find
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Backtracking
 |  |
@@ -30,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shubhamsupekar777/Leetcode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
