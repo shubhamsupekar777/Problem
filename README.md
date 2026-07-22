@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shubhamsupekar777/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/shubhamsupekar777/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shubhamsupekar777/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shubhamsupekar777/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shubhamsupekar777/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
